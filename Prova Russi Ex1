@@ -35,3 +35,5 @@ for i in range(len(temperaturas)):
 
 # Resultado final
 print(f"Sala com maior risco: Sala {sala_maior_risco}")
+
+
